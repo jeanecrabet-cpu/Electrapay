@@ -1,0 +1,8 @@
+{
+  "name": "ElectraPay CIE",
+  "description": "Une application moderne et sécurisée pour recharger vos compteurs d'électricité CIE instantanément via Orange, MTN, Moov et Wave.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
